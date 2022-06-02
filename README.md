@@ -1,2 +1,2 @@
 # SecondProject
-My second project. Git refresher. 
+My second project. Git refresher. Hello Everyone. 
